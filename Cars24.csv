@@ -1,0 +1,183 @@
+,Brand,Model,Year,Variant,Location,Version,Number of Owners,KmDriven,Price
+0,Maruti,A Star,2009,LXI Manual,New Delhi,Petrol,1st Owner,30867,175399
+1,Volkswagen,Vento,2014,HIGHLINE PETROL Manual,New Delhi,Petrol,1st Owner,62625,446899
+2,Maruti,Ritz,2010,VXI GENUS Manual,New Delhi,Petrol,1st Owner,96362,231399
+3,Hyundai,Grand i10,2015,MAGNA 1.1 CRDI Manual,New Delhi,Diesel,2nd Owner,62491,312299
+4,Maruti,Swift Dzire,2014,VDI BS IV Manual,New Delhi,Diesel,1st Owner,96978,416399
+5,Maruti,Swift,2015,VDI ABS Manual,New Delhi,Diesel,1st Owner,44638,432499
+6,Maruti,Ciaz,2014,VDI PLUS Manual,New Delhi,Diesel,1st Owner,113535,492099
+7,Maruti,Swift,2013,VDI Manual,New Delhi,Diesel,1st Owner,114506,330499
+8,Hyundai,i20,2013,SPORTZ 1.4 CRDI Manual,New Delhi,Diesel,1st Owner,64361,364899
+9,Maruti,Wagon R 1.0,2013,LXI Manual,New Delhi,Petrol,1st Owner,151452,234499
+10,Maruti,Swift,2015,VDI ABS Manual,New Delhi,Diesel,1st Owner,89196,406599
+11,Maruti,Swift,2014,VXI Manual,New Delhi,Petrol,1st Owner,107206,392399
+12,Maruti,Swift,2013,VDI Manual,New Delhi,Diesel,1st Owner,122416,319399
+13,Ford,Ecosport,2014,1.5 TITANIUMTDCI OPT Manual,New Delhi,Diesel,1st Owner,156205,455199
+14,Maruti,Swift,2013,VDI Manual,New Delhi,Diesel,1st Owner,83143,327199
+15,Maruti,Swift,2014,VDI Manual,New Delhi,Diesel,1st Owner,64370,380399
+16,Hyundai,Elite i20,2015,MAGNA 1.4 CRDI Manual,New Delhi,Diesel,1st Owner,59041,484199
+17,Maruti,Ciaz,2017,VDI+ SHVS Manual,New Delhi,Diesel,1st Owner,82599,584899
+18,Maruti,Swift,2013,ZDI Manual,New Delhi,Diesel,1st Owner,77409,397899
+19,Mahindra,XUV500,2013,W8 FWD Manual,New Delhi,Diesel,1st Owner,20852,579899
+20,Maruti,A Star,2009,LXI Manual,Noida,Petrol,1st Owner,30867,175399
+21,Volkswagen,Vento,2014,HIGHLINE PETROL Manual,Noida,Petrol,1st Owner,62625,446899
+22,Maruti,Ritz,2010,VXI GENUS Manual,Noida,Petrol,1st Owner,96362,231399
+23,Hyundai,Grand i10,2015,MAGNA 1.1 CRDI Manual,Noida,Diesel,2nd Owner,62491,312299
+24,Maruti,Swift Dzire,2014,VDI BS IV Manual,Noida,Diesel,1st Owner,96978,416399
+25,Maruti,Swift,2015,VDI ABS Manual,Noida,Diesel,1st Owner,44638,432499
+26,Maruti,Ciaz,2014,VDI PLUS Manual,Noida,Diesel,1st Owner,113535,492099
+27,Maruti,Swift,2013,VDI Manual,Noida,Diesel,1st Owner,114506,330499
+28,Hyundai,i20,2013,SPORTZ 1.4 CRDI Manual,Noida,Diesel,1st Owner,64361,364899
+29,Maruti,Wagon R 1.0,2013,LXI Manual,Noida,Petrol,1st Owner,151452,234499
+30,Maruti,Swift,2015,VDI ABS Manual,Noida,Diesel,1st Owner,89196,406599
+31,Maruti,Swift,2014,VXI Manual,Noida,Petrol,1st Owner,107206,392399
+32,Maruti,Swift,2013,VDI Manual,Noida,Diesel,1st Owner,122416,319399
+33,Ford,Ecosport,2014,1.5 TITANIUMTDCI OPT Manual,Noida,Diesel,1st Owner,156205,455199
+34,Maruti,Swift,2013,VDI Manual,Noida,Diesel,1st Owner,83143,327199
+35,Maruti,Swift,2014,VDI Manual,Noida,Diesel,1st Owner,64370,380399
+36,Hyundai,Elite i20,2015,MAGNA 1.4 CRDI Manual,Noida,Diesel,1st Owner,59041,484199
+37,Maruti,Ciaz,2017,VDI+ SHVS Manual,Noida,Diesel,1st Owner,82599,584899
+38,Maruti,Swift,2013,ZDI Manual,Noida,Diesel,1st Owner,77409,397899
+39,Mahindra,XUV500,2013,W8 FWD Manual,Noida,Diesel,1st Owner,20852,579899
+40,Maruti,A Star,2009,LXI Manual,Gurgaon,Petrol,1st Owner,30867,175399
+41,Volkswagen,Vento,2014,HIGHLINE PETROL Manual,Gurgaon,Petrol,1st Owner,62625,446899
+42,Maruti,Ritz,2010,VXI GENUS Manual,Gurgaon,Petrol,1st Owner,96362,231399
+43,Hyundai,Grand i10,2015,MAGNA 1.1 CRDI Manual,Gurgaon,Diesel,2nd Owner,62491,312299
+44,Maruti,Swift Dzire,2014,VDI BS IV Manual,Gurgaon,Diesel,1st Owner,96978,416399
+45,Maruti,Swift,2015,VDI ABS Manual,Gurgaon,Diesel,1st Owner,44638,432499
+46,Maruti,Ciaz,2014,VDI PLUS Manual,Gurgaon,Diesel,1st Owner,113535,492099
+47,Maruti,Swift,2013,VDI Manual,Gurgaon,Diesel,1st Owner,114506,330499
+48,Hyundai,i20,2013,SPORTZ 1.4 CRDI Manual,Gurgaon,Diesel,1st Owner,64361,364899
+49,Maruti,Wagon R 1.0,2013,LXI Manual,Gurgaon,Petrol,1st Owner,151452,234499
+50,Maruti,Swift,2015,VDI ABS Manual,Gurgaon,Diesel,1st Owner,89196,406599
+51,Maruti,Swift,2014,VXI Manual,Gurgaon,Petrol,1st Owner,107206,392399
+52,Maruti,Swift,2013,VDI Manual,Gurgaon,Diesel,1st Owner,122416,319399
+53,Ford,Ecosport,2014,1.5 TITANIUMTDCI OPT Manual,Gurgaon,Diesel,1st Owner,156205,455199
+54,Maruti,Swift,2013,VDI Manual,Gurgaon,Diesel,1st Owner,83143,327199
+55,Maruti,Swift,2014,VDI Manual,Gurgaon,Diesel,1st Owner,64370,380399
+56,Hyundai,Elite i20,2015,MAGNA 1.4 CRDI Manual,Gurgaon,Diesel,1st Owner,59041,484199
+57,Maruti,Ciaz,2017,VDI+ SHVS Manual,Gurgaon,Diesel,1st Owner,82599,584899
+58,Maruti,Swift,2013,ZDI Manual,Gurgaon,Diesel,1st Owner,77409,397899
+59,Mahindra,XUV500,2013,W8 FWD Manual,Gurgaon,Diesel,1st Owner,20852,579899
+60,Renault,Kwid,2015,RXT Manual,Chennai,Petrol,2nd Owner,46463,322299
+61,Renault,TRIBER,2021,1.0 RXL PETROL Manual,Chennai,Petrol,2nd Owner,16304,669899
+62,Renault,Kwid,2018,1.0 RXT Opt Manual,Chennai,Petrol,1st Owner,42053,387499
+63,Renault,Kwid,2019,1.0 CLIMBER OPT Manual,Chennai,Petrol,1st Owner,23997,472699
+64,Renault,Kwid,2016,RXT Manual,Chennai,Petrol,1st Owner,62557,313699
+65,Renault,Kwid,2016,RXT Opt Manual,Chennai,Petrol,1st Owner,51099,339799
+66,Renault,Kwid,2016,RXT Manual,Chennai,Petrol,1st Owner,44204,328599
+67,Renault,Kwid,2016,RXT Manual,Chennai,Petrol,2nd Owner,50033,332299
+68,Renault,Kwid,2016,RXT Opt Manual,Chennai,Petrol,1st Owner,51188,339799
+69,Renault,Captur,2018,RXE PETROL MT Manual,Chennai,Petrol,1st Owner,26678,733199
+70,Renault,TRIBER,2019,1.0 RXZ,Chennai,Petrol,2nd Owner,24180,688199
+71,Renault,Kwid,2017,RXL1.0 EASY-R AT Manual,Chennai,Petrol,1st Owner,68865,333199
+72,Renault,TRIBER,2019,1.0 RXZ Manual,Chennai,Petrol,1st Owner,27805,695099
+73,Renault,Duster,2018,85 PS RXE Manual,Chennai,Diesel,1st Owner,28026,781299
+74,Renault,Kwid,2018,RXL1.0 EASY-R AT Automatic,Chennai,Petrol,3rd Owner,25339,352299
+75,Renault,Kwid,2017,RXT 1.0 EASY-R AT OPTION Automatic,Chennai,Petrol,1st Owner,38176,404499
+76,Renault,Kwid,2018,RXL Manual,Chennai,Petrol,1st Owner,13152,367399
+77,Renault,Kwid,2018,1.0 RXT Opt Automatic,Chennai,Petrol,1st Owner,18349,387499
+78,Renault,Kwid,2018,1.0 RXT Opt Manual,Chennai,Petrol,1st Owner,33009,387499
+79,Renault,Kwid,2021,1.0 RXT Opt AT Automatic,Chennai,Petrol,1st Owner,7089,547599
+80,Renault,Kwid,2016,RXT 1.0 EASY-R AT Automatic,Pune,Petrol,1st Owner,20594,368699
+81,Renault,Kwid,2015,RXL Manual,Pune,Petrol,1st Owner,37573,287099
+82,Renault,Kwid,2016,RXT Opt Manual,Pune,Petrol,1st Owner,28452,346699
+83,Renault,Duster,2012,RXZ DIESEL 110 Manual,Pune,Diesel,2nd Owner,125998,519299
+84,Renault,TRIBER,2020,1.0 RXT AT Automatic,Pune,Petrol,1st Owner,16376,672999
+85,Renault,TRIBER,2019,1.0 RXZ Manual,Pune,Petrol,1st Owner,15524,676399
+86,Renault,TRIBER,2019,1.0 RXT Manual,Pune,Petrol,1st Owner,9783,673599
+87,Renault,Duster,2016,85 PS RXL Manual,Pune,Diesel,1st Owner,117291,643199
+88,Renault,Duster,2018,RXZ AMT 110 PS Automatic,Pune,Diesel,1st Owner,57235,892599
+89,Renault,Kwid,2018,RXT 1.0 EASY-R AT OPTION Automatic,Pune,Petrol,1st Owner,48644,447599
+90,Renault,Kwid,2019,RXT 1.0 EASY-R AT OPTION Automatic,Pune,Petrol,1st Owner,16756,504599
+91,Renault,Kwid,2018,RXT 1.0 EASY-R AT OPTION Automatic,Pune,Petrol,1st Owner,34297,454699
+92,Renault,Kwid,2018,RXT 1.0 EASY-R AT OPTION Automatic,Pune,Petrol,1st Owner,9095,481399
+93,Renault,Duster,2016,RXL AMT 110 PS Automatic,Pune,Diesel,1st Owner,54851,684199
+94,Renault,Duster,2016,RXL 85PS EXPLORE Manual,Pune,Diesel,1st Owner,51941,664599
+95,Renault,Duster,2015,85 PS RXE Manual,Pune,Diesel,1st Owner,172569,488899
+96,Renault,Duster,2018,RXZ AMT 110 PS Automatic,Pune,Diesel,1st Owner,36340,919699
+97,Renault,Kwid,2018,RXT 1.0 EASY-R AT OPTION Automatic,Pune,Petrol,1st Owner,8054,471399
+98,Renault,Kwid,2019,RXT 1.0 EASY-R AT OPTION Automatic,Pune,Petrol,1st Owner,8651,504599
+99,Renault,Kwid,2018,RXT 1.0 EASY-R AT OPTION Automatic,Pune,Petrol,1st Owner,12257,403199
+100,Renault,TRIBER,2019,1.0 RXZ Manual,Mumbai,Petrol,1st Owner,25688,639199
+101,Renault,Kwid,2019,RXT 1.0 EASY-R AT OPTION Automatic,Mumbai,Petrol,1st Owner,3439,504599
+102,Renault,Kwid,2019,RXT 1.0 EASY-R AT OPTION Automatic,Mumbai,Petrol,1st Owner,13373,492399
+103,Renault,Kwid,2019,RXT 1.0 EASY-R AT OPTION Automatic,Mumbai,Petrol,1st Owner,5423,483799
+104,Renault,Kwid,2019,RXL Manual,Mumbai,Petrol,1st Owner,12909,384599
+105,Renault,Kwid,2019,RXT 1.0 EASY-R AT OPTION Automatic,Mumbai,Petrol,1st Owner,7547,489799
+106,Renault,TRIBER,2019,1.0 RXZ Manual,Mumbai,Petrol,1st Owner,2400,732499
+107,Renault,Kwid,2016,1.0 RXT Opt Manual,Mumbai,Petrol,1st Owner,30114,339199
+108,Renault,Duster,2020,RXZ Manual,Mumbai,Petrol,1st Owner,16887,998999
+109,Renault,Duster,2018,RXS 85 PS Manual,Mumbai,Diesel,1st Owner,31130,785199
+110,Renault,Kwid,2017,RXT Manual,Mumbai,Petrol,1st Owner,39015,344799
+111,Renault,Kwid,2019,RXL Manual,Mumbai,Petrol,1st Owner,27241,385299
+112,Toyota,Glanza,2019,G CVT Automatic,Mumbai,Petrol,1st Owner,44175,774899
+113,Toyota,Glanza,2019,V CVT Automatic,Mumbai,Petrol,1st Owner,32918,854799
+114,Toyota,Glanza,2019,V CVT Automatic,Mumbai,Petrol,1st Owner,5693,944699
+115,Toyota,Corolla Altis,2014,J S Manual,Mumbai,Petrol,2nd Owner,22359,698199
+116,Toyota,Innova,2013,2.5 GX 8 STR BS IV Manual,Mumbai,Diesel,2nd Owner,177672,808999
+117,Toyota,Innova Crysta,2018,2.4 VX 7 STR Manual,Mumbai,Diesel,1st Owner,38389,1814599
+118,Toyota,Etios Liva,2016,D-4D VXD Manual,Mumbai,Diesel,1st Owner,62324,562899
+119,Toyota,Innova,2012,2.5 GX 8 STR BS IV Manual,Mumbai,Diesel,1st Owner,353288,747299
+120,Toyota,Glanza,2021,G MT PETROL Manual,Mumbai,Petrol,1st Owner,7752,817599
+121,Toyota,Innova,2015,2.5 GX 8 STR BS IV Manual,Mumbai,Diesel,1st Owner,128527,984499
+122,Toyota,Corolla Altis,2015,VL AT Automatic,Mumbai,Petrol,1st Owner,59794,958699
+123,Toyota,Innova,2012,2.5 GX 8 STR BS IV Manual,Mumbai,Diesel,2nd Owner,170290,774799
+124,Toyota,Corolla Altis,2016,VL AT Automatic,Mumbai,Petrol,1st Owner,90835,925699
+125,Toyota,YARIS,2018,G MT Manual,Mumbai,Petrol,1st Owner,28949,747599
+126,Toyota,Corolla Altis,2009,VL AT Automatic,Mumbai,Petrol,1st Owner,54351,350099
+127,Toyota,Glanza,2019,V CVT Automatic,Mumbai,Petrol,1st Owner,41936,739799
+128,Toyota,Glanza,2019,V CVT Automatic,Mumbai,Petrol,1st Owner,2407,840799
+129,Toyota,Innova Crysta,2018,2.8 GX AT 8 STR Automatic,Mumbai,Diesel,1st Owner,37536,1660999
+130,Toyota,Etios,2011,V Manual,Mumbai,Petrol,1st Owner,66674,324099
+131,Toyota,Corolla Altis,2016,G Manual,Mumbai,Petrol,1st Owner,77841,870599
+132,Maruti,Swift,2018,VXI Manual,Kolkata,Petrol,1st Owner,74294,537899
+133,Maruti,Ertiga,2014,ZXI Manual,Kolkata,Petrol,1st Owner,12904,589099
+134,Maruti,Baleno,2017,ZETA 1.2 K12 AMT Automatic,Kolkata,Petrol,1st Owner,14600,579799
+135,Maruti,Ciaz,2017,DELTA 1.4 VVT Manual,Kolkata,Petrol,1st Owner,41264,559799
+136,Maruti,Dzire,2019,VXI Manual,Kolkata,Petrol,2nd Owner,5788,611399
+137,Maruti,Ciaz,2018,ZETA 1.4 VVT Manual,Kolkata,Petrol,1st Owner,37826,680299
+138,Maruti,Dzire,2019,VXI Manual,Kolkata,Petrol,2nd Owner,1674,626999
+139,Maruti,Vitara Brezza,2016,ZDI PLUS DUAL TONE Manual,Kolkata,Diesel,1st Owner,95093,669999
+140,Maruti,Vitara Brezza,2016,ZDI PLUS DUAL TONE Manual,Kolkata,Diesel,1st Owner,55134,662899
+141,Maruti,Swift,2018,LXI Manual,Kolkata,Petrol,1st Owner,30183,506299
+142,Maruti,Swift,2018,VXI Manual,Kolkata,Petrol,1st Owner,7199,537899
+143,Maruti,Swift,2018,VXI Manual,Kolkata,Petrol,1st Owner,21603,537899
+144,Maruti,Dzire,2018,VXI Manual,Kolkata,Petrol,1st Owner,50254,610299
+145,Maruti,Alto 800,2012,LXI Manual,Kolkata,Petrol,1st Owner,38986,206099
+146,Maruti,Swift,2018,VXI Manual,Kolkata,Petrol,1st Owner,31252,537899
+147,Maruti,Dzire,2018,VXI AMT Automatic,Kolkata,Petrol,1st Owner,17593,624999
+148,Maruti,Swift Dzire,2012,VXI 1.2 BS IV Manual,Kolkata,Petrol,1st Owner,65238,349399
+149,Maruti,Swift,2018,VXI AMT Automatic,Kolkata,Petrol,1st Owner,18958,565899
+150,Maruti,Dzire,2018,ZXI Plus Manual,Kolkata,Petrol,1st Owner,55711,694399
+151,Maruti,Swift,2018,VXI Manual,Kolkata,Petrol,1st Owner,79284,537899
+152,Mahindra,KUV 100 NXT,2017,K8 6 STR Manual,Bengaluru,Petrol,1st Owner,16557,538899
+153,Mahindra,Scorpio,2017,S6 PLUS Manual,Bengaluru,Diesel,1st Owner,53164,1120399
+154,Mahindra,XUV 3OO,2020,W8 (O) DIESEL AT Automatic,Bengaluru,Diesel,1st Owner,23130,1515299
+155,Mahindra,XUV500,2017,W6 4X2 Manual,Bengaluru,Diesel,2nd Owner,51223,1232799
+156,Mahindra,XUV 3OO,2020,W8 (O) DIESEL AT Automatic,Bengaluru,Diesel,1st Owner,24671,1385799
+157,Mahindra,XUV500,2017,W6 4X2 Manual,Bengaluru,Diesel,1st Owner,36087,1294699
+158,Mahindra,XUV500,2018,W7 FWD Manual,Bengaluru,Diesel,1st Owner,45359,1325799
+159,Mahindra,XUV500,2020,W9 Manual,Bengaluru,Diesel,1st Owner,10813,1810499
+160,Mahindra,XUV500,2017,W6 4X2 Manual,Bengaluru,Diesel,1st Owner,35030,1251099
+161,Mahindra,XUV500,2018,W7 FWD Manual,Bengaluru,Diesel,1st Owner,45803,1408799
+162,Maruti,Zen Estilo,2007,LXI Manual,Mumbai,Petrol,3rd Owner,76609,120399
+163,Maruti,Swift Dzire,2012,VDI BS IV Manual,Mumbai,Diesel,1st Owner,50082,464499
+164,Maruti,Dzire,2017,VDI Manual,Mumbai,Diesel,1st Owner,107185,685699
+165,Maruti,Vitara Brezza,2016,ZDI Manual,Mumbai,Diesel,1st Owner,67227,714099
+166,Maruti,Vitara Brezza,2020,ZXI+ AT SHVS Automatic,Mumbai,Petrol,1st Owner,13934,1110299
+167,Maruti,Ertiga,2012,ZDI Manual,Mumbai,Diesel,2nd Owner,63523,610799
+168,Maruti,S Cross,2017,ZETA 1.3 Manual,Mumbai,Diesel,1st Owner,26334,788699
+169,Maruti,New Wagon-R,2019,ZXI 1.2 Manual,Mumbai,Petrol,1st Owner,30580,563699
+170,Maruti,Vitara Brezza,2016,VDI Manual,Mumbai,Diesel,1st Owner,52988,722999
+171,Maruti,Ciaz,2015,VXI PLUS Manual,Mumbai,Petrol,1st Owner,51925,549799
+172,Maruti,Vitara Brezza,2017,VDI OPT Manual,Mumbai,Diesel,1st Owner,46304,730599
+173,Maruti,Baleno,2016,ZETA 1.2 K12 Manual,Mumbai,Petrol,1st Owner,47955,593899
+174,Maruti,Baleno,2016,DELTA 1.2 K12 Manual,Mumbai,Petrol,1st Owner,51532,576699
+175,Maruti,Baleno,2016,DELTA 1.2 K12 Manual,Mumbai,Petrol,1st Owner,40087,572599
+176,Maruti,Baleno,2016,ZETA 1.2 K12 Manual,Mumbai,Petrol,1st Owner,24481,618399
+177,Maruti,Dzire,2018,VXI Manual,Mumbai,Petrol,1st Owner,40267,685199
+178,Maruti,Baleno,2016,ALPHA DDIS 190 Manual,Mumbai,Diesel,1st Owner,85248,642999
+179,Maruti,Baleno,2016,ZETA 1.2 K12 CVT Automatic,Mumbai,Petrol,1st Owner,5318,741599
+180,Maruti,Dzire,2018,VXI Manual,Mumbai,Petrol,1st Owner,18895,704199
+181,Maruti,Dzire,2018,VXI Manual,Mumbai,Petrol,1st Owner,14904,704199
